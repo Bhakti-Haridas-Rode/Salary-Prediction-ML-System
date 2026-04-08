@@ -33,7 +33,6 @@ The project also focuses on comparing different models and understanding their p
 
 ## Models Used
 - Linear Regression  
-- (Add others if you used them)
 
 
 
